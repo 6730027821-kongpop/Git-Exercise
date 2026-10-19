@@ -26,6 +26,10 @@ c) Update this README.md file:
 
 Name: Kongpop Pienkarn  
 Email: 6730027821@student.chula.ac.th
+Name: Nathapat Ananpiwat
+Email: 6730133621@student.chula.ac.th
+Name: Napol Atthakorn  
+Email: Napol.atthakorn@gmail.com
 
 🖼️ 2. Picture
 
@@ -41,3 +45,4 @@ Email: 6730027821@student.chula.ac.th
 Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
+[![Video Lecture](https://img.youtube.com/vi/alfmHTYsEU4/hqdefault.jpg)](https://youtu.be/alfmHTYsEU4)
